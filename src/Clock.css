@@ -1,0 +1,139 @@
+#back{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    margin: 90px 500px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inn{
+    width: 450px;
+    height: 450px;
+    border: white solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inner{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    justify-content: center;
+    
+}
+#time{
+    width: 300px;
+    height: 70px;
+    border: white solid;
+    border-radius: 10px;
+    margin-left: 50px;
+    color: red;
+
+    
+}
+#hours{
+    width: 300px;
+    height: 70px;
+    border: white solid;
+    border-radius: 10px;
+    margin-left: 50px;
+    color: red;
+    font-size: 3rem;
+    
+}
+#text{
+    height: 15px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.dd ,.hh{
+    height: 15px;
+    width: 45px;
+    color: white;
+    font-size: medium;
+}
+p{
+    margin-top: -9px;
+}
+#weeks{
+    height: 30px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.week{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: white solid;
+}
+#weektext{
+
+    height: 30px;
+    width: 300px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.weeksnames{
+    height: 20px;
+    width: 40px;
+   margin-left: -5px;
+
+}
+h6{
+    color: white;
+    margin-top: -5px;
+    margin-left: 8px;
+}
+#hours h3{
+    margin-top: -12px;
+    margin-left: 10px;
+}
+#time h3{
+    font-size: 40px;
+    margin-top: -0px;
+    margin-left: 15px;
+}
+.week.active {
+    background-color: red; 
+}
+
+.weeksnames {
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
